@@ -1,0 +1,29 @@
+.heading {
+    text-align: center;
+}
+
+.containor {
+    justify-content: center;
+    text-align: center;
+}
+
+.row {
+    margin: 7px 0px;
+    padding: 2px 0px;
+}
+
+.btn {
+    cursor: pointer;
+    border-radius: 3px;
+    border: 1.5px solid black;
+    width: 34px;
+    height: 34px;
+
+}
+
+.row input {
+    font-size: 20px;
+    margin: 1px;
+    padding: 2px;
+    width: 137px;
+}
